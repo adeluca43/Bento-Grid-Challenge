@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL:https://www.frontendmentor.io/solutions/piece-by-piece-approach-to-a-responsive-bento-grid-layout-BejqGU0wpA
 - Live Site URL: https://adeluca43.github.io/Bento-Grid-Challenge/
 
 ## My process
@@ -41,12 +41,3 @@ I'd like to continue working on:
 - Improving image scaling across devices
 - Using `clamp()` and relative units for better responsive font sizing
 
-
-## Author
-
-- Frontend Mentor - [@adeluca43](https://www.frontendmentor.io/profile/adeluca43)
-- GitHub - [@adeluca43](https://github.com/adeluca43)
-
-## Acknowledgments
-
-Thanks to the Frontend Mentor community for support and design inspiration!
