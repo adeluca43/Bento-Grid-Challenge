@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:
-- Live Site URL: 
+- Live Site URL: https://adeluca43.github.io/Bento-Grid-Challenge/
 
 ## My process
 I began by setting up the overall layout of the cards and applying the correct colors. Next, I focused on adding the text content, followed by the provided graphics and illustrations. Once everything was in place, I refined each card individually to align as closely as possible with the original design. Breaking the project down into smaller pieces made the process much more manageable and efficient.
